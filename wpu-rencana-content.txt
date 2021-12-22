@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
 
 -BELAJAR Sebanyak-banyaknya
+ *Javascript
 -Kuasai Semampu Yang kamu Bisa
 -Bersyukur
+-Berdoa
